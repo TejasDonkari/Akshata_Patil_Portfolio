@@ -8,7 +8,7 @@ export const PORTFOLIO_DATA: PortfolioData = {
   summary: "I worked as a Java Developer Intern, building backend systems and microservices using Spring Boot, Spring Cloud, and Spring Data JPA. I created RESTful APIs, improved application performance, and solved technical challenges. I followed good coding practices and focused on writing clean, maintainable, and reliable code.",
   email: "akshatapatil192002@gmail.com",
   github: "https://github.com/akshatapatil",
-  linkedin: "https://linkedin.com/in/akshatapatil",
+  linkedin: "https://www.linkedin.com/in/akshata-patil-45b2b2263/",
   skills: [
     {
       title: "Backend Development",
