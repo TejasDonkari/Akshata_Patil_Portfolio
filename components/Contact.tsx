@@ -58,7 +58,7 @@ const Contact: React.FC = () => {
         </div>
 
         <div className="mt-20 text-center text-slate-500 text-sm">
-            <p>&copy; {new Date().getFullYear()} {PORTFOLIO_DATA.name}.| Software Developer | All rights reserved.
+            <p>&copy; {new Date().getFullYear()} {PORTFOLIO_DATA.name} | Software Developer | All rights reserved.
 </p>
         </div>
       </div>
