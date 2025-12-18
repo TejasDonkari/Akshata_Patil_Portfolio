@@ -24,7 +24,7 @@ export const PORTFOLIO_DATA: PortfolioData = {
     {
       title: "Frontend & Others",
       icon: <Code className="w-6 h-6" />,
-      skills: ["React", "Angular", "HTML", "CSS3",]
+      skills: ["React", "Angular", "HTML", "CSS3","Bootstrap"]
     },
 
      {
