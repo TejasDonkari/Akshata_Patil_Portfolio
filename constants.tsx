@@ -81,7 +81,7 @@ export const PORTFOLIO_DATA: PortfolioData = {
   ]
 };
 
-// System instruction for the Gemini AI assistant
+
 export const AI_SYSTEM_INSTRUCTION = `
 You are an AI assistant for Akshata Patil's professional portfolio.
 Your role is to answer questions about Akshata's skills, experience, and projects based strictly on the provided context.

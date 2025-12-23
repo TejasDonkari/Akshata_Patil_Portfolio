@@ -102,7 +102,7 @@ const Hero: React.FC = () => {
           <div className="relative w-64 h-64 md:w-80 md:h-80">
             <div className="absolute inset-0 bg-cyan-500 rounded-full opacity-20 blur-2xl"></div>
             <img
-              src="/akshata.png"
+              src="/Akshata_p.png"
               alt={PORTFOLIO_DATA.name}
               className="relative w-full h-full object-cover rounded-full border-4 border-slate-800 shadow-2xl"
             />
